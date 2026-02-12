@@ -1,4 +1,4 @@
-https://github.com/gogleisloh/ono-tebe-nado
+https://github.com/gogleisloh/ono-tebe-nado-ad
 
 # Яндекс Практикум, проект "Оно тебе надо"
 
@@ -17,7 +17,7 @@ https://github.com/gogleisloh/ono-tebe-nado
 
 ### Ссылки
 
-- URL решения: [Github](https://github.com/gogleisloh/ono-tebe-nado)
+- URL решения: [Github](https://github.com/gogleisloh/ono-tebe-nado-ad)
 
 ## Автор
 
